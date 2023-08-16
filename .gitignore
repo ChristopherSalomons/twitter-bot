@@ -1,0 +1,18 @@
+.env
+__pycache__/
+.venv/
+build/
+dist/
+
+# Data
+hyouka_video_files/
+liz_video_files/
+
+# Misc
+hyouka_twitter_bot.exe
+hyouka_twitter_bot.spec
+liz_twitter_bot.exe
+liz_twitter_bot.spec
+json_data.json
+mkv_to_mp4.py
+test.py
